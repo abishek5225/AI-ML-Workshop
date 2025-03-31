@@ -1,6 +1,6 @@
-Date			Description	Amount		Category
-2024-01-01	Netflix Subscription	12.99		Entertainment
-2024-01-02	Starbucks Coffee	4.50		Food
-2024-01-03	Uber Ride		15.00		Transport
-2024-01-04	Amazon Purchase		55.00		Shopping
-2024-01-05	Electricity Bill	80.00		Utilities
+Date,Description,Amount,Category
+1/1/2024,Netflix Subscription,12.99,Entertainment
+1/2/2024,Starbucks Coffee,4.5,food
+1/3/2024,Uber Ride,15,transport
+1/4/2024,Amazon Purchase,55,shopping
+1/5/2024,Electricity Bill,80,utilities
